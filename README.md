@@ -1,3 +1,4 @@
+# 修改自：https://github.com/huangyz0918/Rime 添加了符合个人习惯的不用应用中英文自动切换
 # Rime
 
 - This config needs typeface  [_hanazono_](http://fonts.jp/hanazono/), which can be found [here](.materials).
