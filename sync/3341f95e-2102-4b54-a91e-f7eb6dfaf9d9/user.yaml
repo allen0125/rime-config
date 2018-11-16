@@ -1,0 +1,8 @@
+var:
+  option:
+    simplification: false
+  previously_selected_schema: luna_pinyin_simp
+  schema_access_time:
+    luna_pinyin: 1525858570
+    luna_pinyin_fluency: 1530076599
+    luna_pinyin_simp: 1530076639
